@@ -1,5 +1,7 @@
 ##Visualizing public records appeals in your state
 
+![graphviz](graph.png)
+
 How can visualization illuminate the labyrinthine world of public records requests and appeals? Here at Northeastern’s <a href="http://www.northeastern.edu/camd/journalism/academic-programs/ma-journalism-2/">Media Innovation program</a>, we've been using <a href="http://d3js.org" target="_blank">D3</a> to illustrate the persons and institutions in Massachusetts who have most frequently been involved in <a href="http://www.foia.gov/" target="_blank">Freedom of Information Act</a> (FOIA) request appeals over the past 20 months or so. (Scroll down for the visualization and open-sourced code.)
 
 Every year, thousands of public records requests are made across Massachusetts. Many get an adequate response from towns, cities and state agencies. But some are greeted with silence, delay, or, in certain cases, direct challenges by government lawyers or assessments of extraordinarily high compliance fees.
